@@ -1,0 +1,79 @@
+Price,BoatType,Manufacturer,SaleType,Year Built,Length,Width,Material,Country,Views
+10115,Sport Boat,Italmar power boats,new boat from stock,2020,4.99,2.1,GRP,Ger,115
+10490,Sport Boat,Terhi power boats,new boat from stock,2020,4.8,1.85,Thermoplastic,Ger,56
+10823,Deck Boat,Moonday power boats,new boat from stock,2019,5.4,2.1,GRP,Net,85
+10890,Sport Boat,AMT power boats,new boat from stock,2020,4.72,2.05,GRP,Ger,109
+10999,Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,5.07,2.12,GRP,Ger,150
+10999,Sport Boat,Remus power boats,new boat from stock,2020,5.2,2.22,GRP,Ger,179
+11800,Sport Boat,Viko power boats,new boat from stock,2020,6.1,2.5,GRP,Ger,296
+12900,Deck Boat,Marinello power boats,new boat from stock,2019,5.4,2.3,GRP,Ger,231
+13050,Deck Boat,Viking power boats,new boat from stock,2020,5.5,2.17,Aluminium,Ger,174
+13200,Sport Boat,Ranieri International power boats,new boat from stock,2020,5.1,2.1,GRP,Ger,182
+13800,Sport Boat,Viking power boats,new boat from stock,2020,5.5,2.17,Aluminium,Ger,165
+13999,Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,5.55,2.29,GRP,Ger,223
+14200,Sport Boat,Romar power boats,new boat from stock,2019,5.68,1.99,GRP,Swi,285
+14500,Sport Boat,Olympic power boats,new boat from stock,2019,5.28,2.28,GRP,Ger,101
+15999,Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2019,6.12,2.4,GRP,Ger,111
+16190,Sport Boat,AMT power boats,new boat from stock,2019,5.15,2.08,GRP,Ger,60
+16870,Sport Boat,Yamarin power boats,new boat from stock,2020,5.53,2.24,GRP,Ger,127
+17900,Sport Boat,AluForce power boats,new boat from stock,2020,5.66,2.1,Aluminium,Ger,126
+18515,Sport Boat,Yamarin power boats,new boat from stock,2020,4.86,1.96,Aluminium,Ger,145
+19160,Deck Boat,Sessa power boats,new boat from stock,2020,5.75,2.34,GRP,Ita,201
+19999,Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,6.12,2.4,GRP,Ger,197
+20499,Pilothouse,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,5.75,2.54,GRP,Ger,153
+21090,Sport Boat,Yamarin power boats,new boat from stock,2019,5.67,2.25,GRP,Ger,135
+21699,Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,6.74,2.55,GRP,Ger,111
+22187,Deck Boat,BÃƒÂ©nÃƒÂ©teau power boats,new boat from stock,2019,5.27,2.38,PVC,Bel,122
+22520,Deck Boat,Yamarin power boats,new boat from stock,2020,6.25,2.3,GRP,Ger,107
+22800,Deck Boat,Yamarin power boats,new boat from stock,2020,5.28,2.09,Aluminium,Ger,114
+23290,Deck Boat,AMT power boats,new boat from stock,2019,5.6,2.25,GRP,Ger,84
+23900,Sport Boat,AMT power boats,new boat from stock,2019,5.5,2.24,GRP,Ger,106
+23990,Sport Boat,Saver power boats,new boat from stock,2020,5.75,2.26,GRP,Ger,203
+24999,Pilothouse,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,6.55,2.54,GRP,Ger,113
+24999,Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,6.74,2.55,GRP,Ger,146
+25500,Sport Boat,AMT power boats,new boat from stock,2019,6.08,2.35,GRP,Ger,154
+26500,Pilothouse,Viking power boats,new boat from stock,2020,6.84,2.5,Aluminium,Ger,146
+26620,Deck Boat,Sessa power boats,new boat from stock,2020,6.1,2.33,GRP,Ita,224
+27699,Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,7.23,2.55,GRP,Ger,101
+27799,Pilothouse,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,6.4,2.45,GRP,Ger,218
+29155,Sport Boat,Jeanneau power boats,new boat from stock,2020,6.4,2.48,GRP,Ger,62
+29500,Sport Boat,Olympic power boats,new boat from stock,2019,5.28,2.28,GRP,Ger,51
+29900,Sport Boat,Marinello power boats,new boat from stock,2020,5.65,2.35,GRP,Ger,158
+30499,Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,7.23,2.55,GRP,Ger,176
+32500,Sport Boat,AMT power boats,new boat from stock,2019,6.9,2.6,GRP,Ger,50
+33765,Sport Boat,Yamarin power boats,new boat from stock,2020,6.3,2.35,GRP,Ger,147
+34828,Pilothouse,Jeanneau power boats,new boat from stock,2019,6.4,2.45,GRP,Swi,220
+37000,Pilothouse,AMT power boats,new boat from stock,2020,6.4,2.4,GRP,Ger,109
+37625,Pilothouse,Jeanneau power boats,new boat from stock,2020,6.19,2.46,GRP,Swi,1272
+37780,Sport Boat,Yamarin power boats,new boat from stock,2020,6.3,2.5,GRP,Ger,156
+39000,Pilothouse,Yamarin power boats,new boat from stock,2020,6.05,2.32,Aluminium,Ger,164
+39500,Deck Boat,Moonday power boats,new boat from stock,2019,6.42,2.27,GRP,Net,40
+40999,Pilothouse,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,7.76,2.85,GRP,Ger,208
+42300,Deck Boat,Sessa power boats,new boat from stock,2020,7,2.5,GRP,Ita,200
+42499,Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020,7.88,2.55,GRP,Ger,176
+43500,Deck Boat,Moonday power boats,new boat from stock,2019,6.98,2.34,GRP,Net,46
+46260,Pilothouse,AluForce power boats,new boat from stock,2020,7.1,2.45,Aluminium,Ger,162
+47990,Pilothouse,BÃƒÂ©nÃƒÂ©teau power boats,new boat from stock,2020,5.52,2.4,PVC,Spa,111
+49000,Pilothouse,AluForce power boats,new boat from stock,2020,7.4,2.45,Aluminium,Ger,164
+49500,Deck Boat,Moonday power boats,new boat from stock,2019,8.34,2.63,GRP,Net,26
+49850,Sport Boat,Sea Ray power boats,new boat from stock,2019,5.97,2.54,GRP,Ger,54
+49949,Pilothouse,BÃƒÂ©nÃƒÂ©teau power boats,new boat from stock,2019,7.48,2.53,GRP,Swi,164
+49999,Sport Boat,Sea Ray power boats,new boat from stock,2019,5.97,2.54,GRP,Ger,67
+50200,Deck Boat,BÃƒÂ©nÃƒÂ©teau power boats,new boat from stock,2020,7.98,2.97,GRP,Ita,67
+51999,Sport Boat,Sea Ray power boats,new boat from stock,2019,6.55,2.54,GRP,Ger,56
+52000,Pilothouse,Yamarin power boats,new boat from stock,2020,6.77,2.54,GRP,Ger,270
+52999,Sport Boat,Sea Ray power boats,new boat from stock,2020,6.55,2.54,GRP,Ger,85
+54490,Pilothouse,BÃƒÂ©nÃƒÂ©teau power boats,new boat from stock,2019,7.48,2.53,GRP,Ger,218
+54540,Sport Boat,Yamarin power boats,new boat from stock,2020,7.55,2.47,Aluminium,Ger,117
+55555,Sport Boat,Sea Ray power boats,new boat from stock,2020,5.97,2.54,GRP,Ger,88
+58700,Deck Boat,Sessa power boats,new boat from stock,2020,8,2.64,GRP,Ita,109
+59963,Pilothouse,Jeanneau power boats,new boat from stock,2019,6.71,2.54,GRP,Swi,341
+60000,Pilothouse,AluForce power boats,new boat from stock,2020,8.2,2.5,Aluminium,Ger,120
+64879,Sport Boat,Balt Yacht power boats,new boat from stock,2020,8.48,2.7,GRP,Ger,259
+67300,Pilothouse,AluForce power boats,new boat from stock,2020,8.7,2.55,Aluminium,Ger,162
+69460,Sport Boat,Yamarin power boats,new boat from stock,2020,8.02,2.6,GRP,Ger,213
+78540,Pilothouse,Jeanneau power boats,new boat from stock,2020,8.9,2.99,GRP,Ger,90
+85000,Sport Boat,Dellapasqua power boats,new boat from stock,2019,7.75,2.45,GRP,Ita,81
+86990,Sport Boat,BÃƒÂ©nÃƒÂ©teau power boats,new boat from stock,2020,9,2.94,GRP,Fra,106
+92572,Pilothouse,BÃƒÂ©nÃƒÂ©teau power boats,new boat from stock,2020,8.81,2.96,PVC,Por,122
+98500,Deck Boat,Moonday power boats,new boat from stock,2019,10.6,3.3,GRP,Net,60
